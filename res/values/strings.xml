@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoulBreaker</string>
+    <string name="exit_title">Soul Breaker Exit</string>
+    <string name="exit_msg">Are you really?</string>
+    <string name="exit_positive">Yes</string>
+    <string name="exit_negative">No</string>
+</resources>
